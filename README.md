@@ -1,2 +1,2 @@
 # tsing-hua
-See the progress in the new-branch files
+See the progress in the new-branch
